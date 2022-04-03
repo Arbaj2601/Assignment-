@@ -1,0 +1,61 @@
+*{
+    font-size: small;
+}
+.menu div:hover{
+cursor: pointer;
+box-shadow: 10px 10px 5px orangered;
+}
+
+.menu div{
+    width: 150px;;
+}
+.result {
+  width: 1100px;
+   
+  }
+  .road{
+      display: flex;
+      padding: 3%;
+      
+  }
+  .road div{
+      width: 400px;
+  }
+  .heading{
+      padding-left: 100px;
+  }
+  .detailbox{
+    display: flex;
+    padding-left: 45px;
+ 
+    
+}
+.detailbox span{
+    width: 350px;
+}
+
+.viewbutton{
+    border: solid orangered 3px;
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    color: orangered;
+    border-radius: 5px;
+}
+.viewqoute{
+    
+    width: 250px;
+    height: 40px;
+    background-color: orangered;
+    color:white;
+    border-radius: 5px;
+}
+.container{
+    display: flex;
+    padding-top: 100px;
+}
+.Edit-btn{
+    background-color: black;
+    color: white;
+
+}
